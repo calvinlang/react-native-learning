@@ -6,6 +6,7 @@ import firebase from 'firebase';
 import reducers from './reducers';
 
 class App extends Component {
+	// I am making a change here
 
 	componentWillMount() {
 		const config = {
